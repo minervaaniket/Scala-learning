@@ -1,3 +1,5 @@
+package Day1
+
 object VariablesAndDataTypes extends App{
   var a = 10
   println(a)  // prints 10
